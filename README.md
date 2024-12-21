@@ -1,8 +1,12 @@
-# ⌨ Input Overlay Wayland
+# ⌨  Input Overlay Wayland 
 
 Basically this is a fork of OSKD an on-screen keyboard display that can be used during streams. It provides an intuitive and easy-to-use interface that can help viewers keep track of the keyboard inputs used during the stream.
 
 I'm using it as alternative to [Input Overlay](https://github.com/univrsal/input-overlay) that doesn't work on Wayland.
+
+![Preview](./assets/images/preview.png)
+
+Many thanks [Sammwy](https://github.com/sammwyy) for this project!
 
 ## 🌱 Get started
 - Download oskd-windows-x64.exe file from the latest release on [Releases page](https://github.com/sammwyy/OSKD/releases)
