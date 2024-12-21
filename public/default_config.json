@@ -29,7 +29,10 @@
     "MetaLeft": "⊞",
     "MetaRight": "⊞",
     "Space": "―",
-    "CapsLock": "Caps"
+    "CapsLock": "Caps",
+    "Tab": "Tab",
+    "ClickLeft": "ClickLeft",
+    "ClickRight": "ClickRight"
   },
   "keyStyle": {
     "fontSize": "1rem",

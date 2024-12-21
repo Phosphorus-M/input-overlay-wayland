@@ -2,7 +2,7 @@
   "options": {
     "doNotRepeatLastKey": true,
     "printOnlyCombinations": true,
-    "rowLayout": "left-to-right"
+    "rowLayout": "top-to-bottom"
   },
   "modifiersKeys": [
     "ControlLeft",
@@ -18,7 +18,7 @@
     "Escape": "Esc",
     "ShiftLeft": "Shift",
     "ShiftRight": "Shift",
-    "UpArrow": "▲",
+    "UpArrow": "▲",     
     "DownArrow": "▼",
     "LeftArrow": "◀",
     "RightArrow": "▶",
@@ -29,10 +29,13 @@
     "MetaLeft": "⊞",
     "MetaRight": "⊞",
     "Space": "―",
-    "CapsLock": "Caps"
+    "CapsLock": "Caps",
+    "Tab": "Tab",
+    "ClickLeft": "ClickLeft",
+    "ClickRight": "ClickRight"
   },
   "keyStyle": {
-    "fontSize": "1rem",
+    "fontSize": "3rem",
     "textColor": "#fffa",
     "backgroundColor": "#000c",
     "borderRadius": "7px",
